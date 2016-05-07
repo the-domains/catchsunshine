@@ -1,7 +1,7 @@
 name: catchsunshine
 favicon: null
-layout_spectrum: 0.8569060687441379
-typography_spectrum: 0.036680682795122266
+layout_spectrum: 0.93788
+typography_spectrum: 0.56174
 title: We catch the moment called sunshine
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.33942370652221143
-  lightness: 0.6896516624838114
-  saturation: 0.5097344710957259
-  rhythmicContrast: 0.438603441696614
+    - '#cdccd4'
+    - '#919eae'
+    - '#152015'
+    - '#394731'
+    - '#465873'
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.25
 purpose: []
